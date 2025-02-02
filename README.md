@@ -1,5 +1,5 @@
 # **🍽️ Food Delivery REST API**
-A comprehensive Spring Boot-based REST API for a food delivery system with features for managing customers, restaurants, orders, and deliveries.
+A Spring Boot-based REST API for managing a food delivery system. This project provides endpoints for managing customers, restaurants, orders, food items, and cart operations.
 
 ### **📁 Project Structure :-**
 
