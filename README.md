@@ -192,10 +192,10 @@ Role-based access control
 Password encryption
 Session management
 
-📄 License
+**📄 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-👥 Authors
+**👥 Authors**
 
 Jayant Ingle - www.github.com/jay11nt
 
