@@ -196,13 +196,11 @@ The `ProjectConfig.java` file handles the following configurations:
 **👥 Author**  
 [Jayant Ingle](https://github.com/jay11nt)  
 
+ Team- 
+  Ajay mandhare 
+
 **📄 License**  
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 
-**👥 Authors**
 
-Jayant Ingle - www.github.com/jay11nt
-
-Team- 
-Ajay mandhare 
