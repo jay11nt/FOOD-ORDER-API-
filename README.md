@@ -155,34 +155,34 @@ The `ProjectConfig.java` file handles the following configurations:
 
 3. Order APIs-
 
-| Method | Endpoint                | Description         |
-|--------|-------------------------|---------------------|
-| POST   | `/addOrder`             | Place new order     |
-| PUT    | `/updateOrder/{id}`     | Update order        |
-| DELETE | `/removeOrder/{id}`     | Cancel order        |
-| GET    | `/viewOrder/{id}`       | View order details  |
-| GET    | `/getAll`               | Get all orders      |
+    | Method | Endpoint                | Description         |
+    |--------|-------------------------|---------------------|
+    | POST   | `/addOrder`             | Place new order     |
+    | PUT    | `/updateOrder/{id}`     | Update order        |
+    | DELETE | `/removeOrder/{id}`     | Cancel order        |
+    | GET    | `/viewOrder/{id}`       | View order details  |
+    | GET    | `/getAll`               | Get all orders      |
 
 4. Cart APIs-
 
-| Method | Endpoint                              | Description          |
-|--------|---------------------------------------|----------------------|
-| POST   | `/addFoodCart`                        | Create new cart      |
-| PUT    | `/addItemToFoodCart/{id}`             | Add item to cart     |
-| PUT    | `/increaseQuantity/{id}/{quantity}`   | Increase quantity    |
-| PUT    | `/reduceQuantity/{id}/{quantity}`     | Reduce quantity      |
-| DELETE | `/deleteCart`                         | Delete cart          |
+    | Method | Endpoint                              | Description          |
+    |--------|---------------------------------------|----------------------|
+    | POST   | `/addFoodCart`                        | Create new cart      |
+    | PUT    | `/addItemToFoodCart/{id}`             | Add item to cart     |
+    | PUT    | `/increaseQuantity/{id}/{quantity}`   | Increase quantity    |
+    | PUT    | `/reduceQuantity/{id}/{quantity}`     | Reduce quantity      |
+    | DELETE | `/deleteCart`                         | Delete cart          |
 
 5. Bill APIs-
 
-| Method | Endpoint                   | Description                  |
-|--------|----------------------------|------------------------------|
-| POST   | `/addBill`                 | Generate new bill            |
-| PUT    | `/updateBill`              | Update bill                  |
-| DELETE | `/deleteBill/{id}`         | Remove bill                  |
-| GET    | `/viewBill/{id}`           | View bill details            |
-| GET    | `/viewAllBills`            | View bills between dates     |
-| GET    | `/getTotalCost/{id}`       | Calculate total cost         |
+    | Method | Endpoint                   | Description                  |
+    |--------|----------------------------|------------------------------|
+    | POST   | `/addBill`                 | Generate new bill            |
+    | PUT    | `/updateBill`              | Update bill                  |
+    | DELETE | `/deleteBill/{id}`         | Remove bill                  |
+    | GET    | `/viewBill/{id}`           | View bill details            |
+    | GET    | `/viewAllBills`            | View bills between dates     |
+    | GET    | `/getTotalCost/{id}`       | Calculate total cost         |
 
 
 ### **🔒 Security**
