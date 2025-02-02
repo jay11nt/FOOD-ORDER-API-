@@ -163,4 +163,13 @@ The `ProjectConfig.java` file handles the following configurations:
 | GET    | `/viewOrder/{id}`       | View order details  |
 | GET    | `/getAll`               | Get all orders      |
 
+4. Cart APIs-
+5. 
+| Method | Endpoint                              | Description          |
+|--------|---------------------------------------|----------------------|
+| POST   | `/addFoodCart`                        | Create new cart      |
+| PUT    | `/addItemToFoodCart/{id}`             | Add item to cart     |
+| PUT    | `/increaseQuantity/{id}/{quantity}`   | Increase quantity    |
+| PUT    | `/reduceQuantity/{id}/{quantity}`     | Reduce quantity      |
+| DELETE | `/deleteCart`                         | Delete cart          |
 
