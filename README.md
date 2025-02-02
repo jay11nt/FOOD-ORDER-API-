@@ -132,7 +132,7 @@ The `ProjectConfig.java` file handles the following configurations:
 - Exception handling
 
 ### **📌 API Endpoints :-**
-- Customer APIs-
+1. Customer APIs-
 
 | Method | Endpoint        | Description             |
 |--------|---------------|---------------------------|
@@ -140,5 +140,15 @@ The `ProjectConfig.java` file handles the following configurations:
 | PUT    | `/update`     | Update customer details   |
 | DELETE | `/delete/{id}`| Delete customer           |
 | GET    | `/get/{id}`   | Get customer details      |
+
+2. Restaurant APIs-
+
+| Method | Endpoint                      | Description                  |
+|--------|--------------------------------|-----------------------------|
+| POST   | `/addrestaurant`               | Add new restaurant          |
+| PUT    | `/updaterestaurant`            | Update restaurant           |
+| DELETE | `/deleterestaurant/{id}`       | Delete restaurant           |
+| GET    | `/getrestaurant/{id}`          | Get restaurant by ID        |
+| GET    | `/getrestaurant/{city}`        | Get restaurants by city     |
 
 
