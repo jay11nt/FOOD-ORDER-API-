@@ -192,8 +192,13 @@ The `ProjectConfig.java` file handles the following configurations:
 - Password encryption
 - Session management
 
-**📄 License**
-This project is licensed under the MIT License - see the LICENSE file for details.
+
+**👥 Author**  
+[Jayant Ingle](https://github.com/jay11nt)  
+
+**📄 License**  
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
+
 
 **👥 Authors**
 
