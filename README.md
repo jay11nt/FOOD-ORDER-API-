@@ -187,10 +187,10 @@ The `ProjectConfig.java` file handles the following configurations:
 
 ### **🔒 Security**
 
-JWT-based authentication
-Role-based access control
-Password encryption
-Session management
+- JWT-based authentication
+- Role-based access control
+- Password encryption
+- Session management
 
 **📄 License**
 This project is licensed under the MIT License - see the LICENSE file for details.
