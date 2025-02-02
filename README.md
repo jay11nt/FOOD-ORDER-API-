@@ -75,3 +75,36 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
  - Setup Instructions
  - Configuration
  - Documentation
+
+### **✨ Features**
+
+**User Management**
+
+   - Customer registration and authentication
+   - User profile management
+   - Address management
+   - Session handling
+
+
+**Restaurant Management**
+
+   - Restaurant registration and profiles
+   - Menu management
+   - Item category management
+   - Location-based restaurant search
+
+
+Order Processing
+
+Shopping cart functionality
+Order placement and tracking
+Order history
+Bill generation
+
+
+Admin Features
+
+User management
+Restaurant approval
+Category management
+System monitoring
