@@ -1,7 +1,7 @@
 # **🍽️ Food Delivery REST API**
 A comprehensive Spring Boot-based REST API for a food delivery system with features for managing customers, restaurants, orders, and deliveries.
 
-### **📁 Project Structure:-**
+### **📁 Project Structure :-**
 
           src/main/java/com/food/
           ├── config/
@@ -65,7 +65,7 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
               ├── OrderService.java
               └── RestaurantService.java
 
-### **📋 Table of Contents:-**
+### **📋 Table of Contents :-**
 
  - Features
  - Tech Stack
@@ -76,7 +76,7 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
  - Configuration
  - Documentation
 
-### **✨ Features:-**
+### **✨ Features :-**
 
 **User Management**
 
@@ -109,7 +109,7 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
  - Category management
  - System monitoring
 
-### **🛠️ Tech Stack**
+### **🛠️ Tech Stack :-**
 
 - Framework: Spring Boot 3.x
 - Language: Java 17
