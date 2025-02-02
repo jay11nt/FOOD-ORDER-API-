@@ -121,3 +121,12 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
 - Security: Spring Security
 - Lombok: For reducing boilerplate code
 - Validation: Spring Validation   
+
+### **⚙️ Configuration :-**
+The `ProjectConfig.java` file handles the following configurations:
+
+- Database connection settings
+- Security configurations
+- Swagger documentation
+- Cross-origin resource sharing (CORS)
+- Exception handling
