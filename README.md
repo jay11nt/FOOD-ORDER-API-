@@ -65,7 +65,7 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
               ├── OrderService.java
               └── RestaurantService.java
 
-### **📋 Table of Contents**
+### **📋 Table of Contents:-**
 
  - Features
  - Tech Stack
@@ -76,7 +76,7 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
  - Configuration
  - Documentation
 
-### **✨ Features**
+### **✨ Features:-**
 
 **User Management**
 
