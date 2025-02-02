@@ -130,3 +130,11 @@ The `ProjectConfig.java` file handles the following configurations:
 - Swagger documentation
 - Cross-origin resource sharing (CORS)
 - Exception handling
+
+### **📌 API Endpoints :-**
+- Customer APIs-
+  
+                    POST   /add               - Register new customer
+                    PUT    /update           - Update customer details
+                    DELETE /delete/{id}      - Delete customer
+                    GET    /get/{id}         - Get customer details
