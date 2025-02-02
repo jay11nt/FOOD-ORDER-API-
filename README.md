@@ -108,3 +108,16 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
  - Restaurant approval
  - Category management
  - System monitoring
+
+### **🛠️ Tech Stack**
+
+- Framework: Spring Boot 3.x
+- Language: Java 17
+- Build Tool: Maven
+- Database: MySQL 8.x
+- ORM: Spring Data JPA
+- API Documentation: Swagger UI
+- Testing: JUnit 5, Mockito
+- Security: Spring Security
+- Lombok: For reducing boilerplate code
+- Validation: Spring Validation   
