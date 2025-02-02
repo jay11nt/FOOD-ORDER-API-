@@ -164,7 +164,7 @@ The `ProjectConfig.java` file handles the following configurations:
 | GET    | `/getAll`               | Get all orders      |
 
 4. Cart APIs-
-5. 
+
 | Method | Endpoint                              | Description          |
 |--------|---------------------------------------|----------------------|
 | POST   | `/addFoodCart`                        | Create new cart      |
@@ -173,3 +173,17 @@ The `ProjectConfig.java` file handles the following configurations:
 | PUT    | `/reduceQuantity/{id}/{quantity}`     | Reduce quantity      |
 | DELETE | `/deleteCart`                         | Delete cart          |
 
+### **🔒 Security**
+
+JWT-based authentication
+Role-based access control
+Password encryption
+Session management
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+👥 Authors
+
+Jayant Ingle - www.github.com/jay11nt
+ 
