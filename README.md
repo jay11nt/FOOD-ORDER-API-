@@ -141,6 +141,7 @@ The `ProjectConfig.java` file handles the following configurations:
 | DELETE | `/delete/{id}`| Delete customer           |
 | GET    | `/get/{id}`   | Get customer details      |
 
+
 2. Restaurant APIs-
 
 | Method | Endpoint                      | Description                  |
@@ -150,5 +151,16 @@ The `ProjectConfig.java` file handles the following configurations:
 | DELETE | `/deleterestaurant/{id}`       | Delete restaurant           |
 | GET    | `/getrestaurant/{id}`          | Get restaurant by ID        |
 | GET    | `/getrestaurant/{city}`        | Get restaurants by city     |
+
+
+3. Order APIs-
+
+| Method | Endpoint                | Description         |
+|--------|-------------------------|---------------------|
+| POST   | `/addOrder`             | Place new order     |
+| PUT    | `/updateOrder/{id}`     | Update order        |
+| DELETE | `/removeOrder/{id}`     | Cancel order        |
+| GET    | `/viewOrder/{id}`       | View order details  |
+| GET    | `/getAll`               | Get all orders      |
 
 
