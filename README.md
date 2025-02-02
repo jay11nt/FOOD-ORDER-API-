@@ -133,8 +133,12 @@ The `ProjectConfig.java` file handles the following configurations:
 
 ### **📌 API Endpoints :-**
 - Customer APIs-
-  
-                    POST   /add               - Register new customer
-                    PUT    /update           - Update customer details
-                    DELETE /delete/{id}      - Delete customer
-                    GET    /get/{id}         - Get customer details
+
+| Method | Endpoint        | Description             |
+|--------|---------------|---------------------------|
+| POST   | `/add`        | Register new customer     |
+| PUT    | `/update`     | Update customer details   |
+| DELETE | `/delete/{id}`| Delete customer           |
+| GET    | `/get/{id}`   | Get customer details      |
+
+
