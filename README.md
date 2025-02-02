@@ -94,17 +94,17 @@ A comprehensive Spring Boot-based REST API for a food delivery system with featu
    - Location-based restaurant search
 
 
-Order Processing
+**Order Processing**
 
-Shopping cart functionality
-Order placement and tracking
-Order history
-Bill generation
+ - Shopping cart functionality
+ - Order placement and tracking
+ - Order history
+ - Bill generation
 
 
-Admin Features
+**Admin Features**
 
-User management
-Restaurant approval
-Category management
-System monitoring
+ - User management
+ - Restaurant approval
+ - Category management
+ - System monitoring
