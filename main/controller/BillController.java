@@ -34,6 +34,7 @@ public class BillController
 	{
 		Bill bill2 = billService.addBill(bill);
 		return new ResponseEntity<Bill>(bill2,HttpStatus.CREATED);
+
 	}
 	
 	@PutMapping("/updateBill")
