@@ -77,6 +77,7 @@ public class BillController
 	{
 		double totalCost = billService.CalculateTotalCost(id);
 		return new ResponseEntity<Double>(totalCost,HttpStatus.OK);
+
 	}
 	
 }
