@@ -51,6 +51,7 @@ public class BillController
 	{
 		Bill removeBill = billService.removeBill(id);
 		return new ResponseEntity<Bill>(removeBill,HttpStatus.OK);
+
 	}
 	
 	@GetMapping("/viewBill/{id}")
