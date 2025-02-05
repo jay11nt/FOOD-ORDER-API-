@@ -32,6 +32,7 @@ public class BillController
 	@PostMapping("/addBill")
 	public ResponseEntity<Bill> addBill(@RequestBody Bill bill)throws BillException
 	{
+
 		Bill bill2 = billService.addBill(bill);
 		return new ResponseEntity<Bill>(bill2,HttpStatus.CREATED);
 
