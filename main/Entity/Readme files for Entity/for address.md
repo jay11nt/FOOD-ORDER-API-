@@ -32,3 +32,9 @@
 ## **Usage -**
 - This class is used to persist address details for a customer in the database.
 - The customer field allows linking the address to a specific Customer entity.
+
+
+## **Technologies Used -**
+- Spring Boot (JPA, Hibernate)
+- Lombok (to reduce boilerplate code)
+- MySQL / PostgreSQL (or any relational database)
