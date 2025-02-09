@@ -13,7 +13,7 @@
 
 **@ToString:** Generates a string representation of the object.
 
-## Fields
+## Fields -
 
 | **Field Name**   | **Type**    | **Description**                                    |
 |------------------|-------------|----------------------------------------------------|
@@ -25,3 +25,6 @@
 | `country`        | `String`    | Country of the address                             |
 | `pincode`        | `Integer`   | Postal code or ZIP code of the address             |
 | `customer`       | `Customer`  | One-to-one relationship with the `Customer` entity |
+
+## **Relationship -**
+@OneToOne: Establishes a one-to-one relationship between Address and Customer. Each address is associated with exactly one customer.
