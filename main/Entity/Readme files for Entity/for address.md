@@ -12,3 +12,16 @@
 **@NoArgsConstructor** and **@AllArgsConstructor:** Lombok annotations to generate constructors with no arguments and all arguments, respectively.
 
 **@ToString:** Generates a string representation of the object.
+
+## Fields
+
+| **Field Name**   | **Type**    | **Description**                                    |
+|------------------|-------------|----------------------------------------------------|
+| `addressId`      | `Integer`   | Primary Key, Auto-generated unique identifier      |
+| `buildingName`   | `String`    | Name or number of the building                     |
+| `area`           | `String`    | Local area or neighborhood                         |
+| `city`           | `String`    | City where the address is located                  |
+| `state`          | `String`    | State of the address                               |
+| `country`        | `String`    | Country of the address                             |
+| `pincode`        | `Integer`   | Postal code or ZIP code of the address             |
+| `customer`       | `Customer`  | One-to-one relationship with the `Customer` entity |
