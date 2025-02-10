@@ -44,3 +44,10 @@ Custom query method getBillByDate() to retrieve bills within a specific date ran
 - Spring Data JPA
 - Java
 - LocalDate for date-based operations
+
+### Setup -
+Ensure you have the following dependencies in your project:
+
+1. Spring Boot
+2. Spring Data JPA
+3. Appropriate database connector
