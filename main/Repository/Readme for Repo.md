@@ -31,3 +31,10 @@ Custom query method getBillByDate() to retrieve bills within a specific date ran
 - **Key Methods:**
   **findByEmail(String email):**   Retrieve user session by email
   **findByPrivateKey(String key):**   Retrieve user session by private key
+
+  **5. CustomerRepo -**
+
+- **Package:** com.food.repository
+- **Entity:** Customer
+- **Key Method:**
+**findByEmail(String email):** Retrieve customer by email address
