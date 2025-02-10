@@ -27,7 +27,7 @@
 | `customer`       | `Customer`  | One-to-one relationship with the `Customer` entity |
 
 ## **Relationship -**
-@OneToOne: Establishes a one-to-one relationship between Address and Customer. Each address is associated with exactly one customer.
+**@OneToOne:** Establishes a one-to-one relationship between Address and Customer. Each address is associated with exactly one customer.
 
 ## **Usage -**
 - This class is used to persist address details for a customer in the database.
