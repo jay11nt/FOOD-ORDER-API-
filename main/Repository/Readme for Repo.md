@@ -23,3 +23,11 @@ Custom query method getBillByDate() to retrieve bills within a specific date ran
 - **Package:** com.food.repository
 - **Entity:** Category
 - **Functionality:** Standard JPA repository for category-related database operations
+
+**4. CurrentUserSessionRepo -**
+
+- **Package:** com.food.repository
+- **Entity:** CurrentUserSession
+- **Key Methods:**
+  **findByEmail(String email):**   Retrieve user session by email
+  **findByPrivateKey(String key):**   Retrieve user session by private key
