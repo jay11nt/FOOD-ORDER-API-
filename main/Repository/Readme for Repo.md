@@ -4,7 +4,7 @@
 - This project contains several Spring Data JPA repositories for a food ordering application, managing different entities related to the system.
 
 ### Repositories -
-**1. BillRepo**
+**1. BillRepo -**
 
 - **Package**: com.food.repository
 - **Entity:** Bill
