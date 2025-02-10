@@ -39,9 +39,9 @@
 - Lombok (to reduce boilerplate code)
 - MySQL / PostgreSQL (or any relational database)
 
-📌 Notes
+**📌 Notes -**
 - Ensure that Lombok is properly configured in your IDE to avoid compilation issues.
 - Database migrations should handle foreign key constraints between Customer and Address.
 
-🔗 Related Entities
+**🔗 Related Entities -**
 - **Customer.java:** The Customer entity that is linked via a one-to-one relationship.
