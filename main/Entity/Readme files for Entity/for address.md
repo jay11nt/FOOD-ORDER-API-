@@ -39,6 +39,7 @@
 - Lombok (to reduce boilerplate code)
 - MySQL / PostgreSQL (or any relational database)
 
+
 **📌 Notes -**
 - Ensure that Lombok is properly configured in your IDE to avoid compilation issues.
 - Database migrations should handle foreign key constraints between Customer and Address.
