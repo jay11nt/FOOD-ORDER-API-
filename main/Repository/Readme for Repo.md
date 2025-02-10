@@ -17,3 +17,9 @@ Custom query method getBillByDate() to retrieve bills within a specific date ran
 - **Package:** com.food.repository
 - **Entity:** FoodCart
 - **Functionality**: Standard JPA repository for cart-related database operations
+
+**3. CategoryRepo -**
+
+- **Package:** com.food.repository
+- **Entity:** Category
+- **Functionality:** Standard JPA repository for category-related database operations
