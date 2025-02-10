@@ -38,3 +38,9 @@ Custom query method getBillByDate() to retrieve bills within a specific date ran
 - **Entity:** Customer
 - **Key Method:**
 **findByEmail(String email):** Retrieve customer by email address
+
+### Technologies -
+
+- Spring Data JPA
+- Java
+- LocalDate for date-based operations
