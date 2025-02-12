@@ -6,7 +6,8 @@ import org.springframework.stereotype.Repository;
 import com.food.model.FoodCart;
 
 @Repository
-public interface CartRepo extends JpaRepository<FoodCart, Integer>{
+public interface CartRepo extends JpaRepository<FoodCart, Integer>
+{
 
 }
 
