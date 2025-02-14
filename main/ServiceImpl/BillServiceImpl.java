@@ -68,7 +68,8 @@ public class BillServiceImpl implements BillService
 	}
 
 	@Override
-	public double CalculateTotalCost(Integer id) throws BillException {
+	public double CalculateTotalCost(Integer id) throws BillException 
+	{
 		Bill bill = billRepo.findById(id).orElseThrow(()-> new BillException("Bill details not found..."));
 		
 		return bill.getTotalCost();
