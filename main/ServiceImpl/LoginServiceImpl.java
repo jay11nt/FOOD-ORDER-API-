@@ -54,7 +54,7 @@ public class LoginServiceImpl implements LoginService
 					currentUserSessionRepo.save(currentUserSession);
 					return"Login Sucessful";
 				}
-				}
+			}
 			else
 			{
 				throw new LoginException("Please Enter Valid PAssword !");
