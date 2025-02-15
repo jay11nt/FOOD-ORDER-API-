@@ -11,7 +11,6 @@ public class CartException extends Exception
 	{
 
 		super(message);
-
 	}
 
 }
