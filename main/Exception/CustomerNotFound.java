@@ -6,7 +6,8 @@ import lombok.Data;
 public class CustomerNotFound extends Exception
 {
 
-	public CustomerNotFound() {
+	public CustomerNotFound() 
+	{
 		super();
 		// TODO Auto-generated constructor stub
 	}
