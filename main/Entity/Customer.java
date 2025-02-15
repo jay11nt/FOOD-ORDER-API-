@@ -63,7 +63,7 @@ public class Customer {
 	
 	@JsonManagedReference
 	@OneToOne(mappedBy = "customer", cascade = CascadeType.ALL)
-    private FoodCart foodCart;
+    	private FoodCart foodCart;
 
 }
 
