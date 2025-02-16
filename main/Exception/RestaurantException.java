@@ -3,7 +3,6 @@ package com.food.exception;
 public class RestaurantException extends Exception 
 {
 	
-
 	public RestaurantException()
 	{
 		super();
