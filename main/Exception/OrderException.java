@@ -7,7 +7,6 @@ public class OrderException extends Exception
 		super();
 	}
 	
-
     public OrderException(String message) 
     {
         super(message);
