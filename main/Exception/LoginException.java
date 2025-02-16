@@ -7,7 +7,8 @@ public class LoginException extends Exception
 		// TODO Auto-generated constructor stub
 	}
 
-	public LoginException(String message) {
+	public LoginException(String message) 
+	{
 		// TODO Auto-generated constructor stub
 		super(message);
 	}
