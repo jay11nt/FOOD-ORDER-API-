@@ -2,7 +2,8 @@ package com.food.exception;
 
 public class LoginException extends Exception
 {
-	public LoginException() {
+	public LoginException() 
+	{
 		// TODO Auto-generated constructor stub
 	}
 
