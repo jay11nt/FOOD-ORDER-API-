@@ -12,6 +12,5 @@ public class BillException extends Exception
 
 		super(message);
 	}
-
 }
 
