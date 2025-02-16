@@ -12,6 +12,5 @@ public class RestaurantException extends Exception
 	{
 		super(message);
 	}
-	
 }
 
