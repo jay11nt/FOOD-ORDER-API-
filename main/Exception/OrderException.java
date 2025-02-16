@@ -2,7 +2,6 @@ package com.food.exception;
 
 public class OrderException extends Exception 
 {
-
 	public OrderException() 
 	{
 		super();
